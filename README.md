@@ -26,3 +26,13 @@ Ce projet propose un outil Excel interactif permettant d’évaluer la maturité
 3. **Remplir** les cellules prévues avec le niveau atteint, les commentaires éventuels, etc.
 4. **Consulter** les tableaux croisés dynamiques et les graphiques générés automatiquement dans les onglets “Dashboard”.
 5. **Analyser** les résultats pour identifier les forces et axes d’amélioration.
+
+6. ## Contributeurs
+
+Le projet a été conçu et réalisé par :
+- RIM AMSAF
+- IMANE KOUHHIZ
+- ZAKARIA HANAI
+- ABDI MAHAMOUD ROUKEH
+- Encadré par : mme DJOUDI CHAHINDA
+Dans le cadre du Master 2 Sécurité & Fiabilité Informatique – Aix-Marseille Université.
