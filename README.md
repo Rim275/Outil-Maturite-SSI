@@ -7,19 +7,19 @@ Ce projet propose un outil Excel interactif permettant d’évaluer la maturité
 - **CIS Controls**
 - **DORA** – Digital Operational Resilience Act (UE)
 
-## 🧰 Fonctionnalités
+## Fonctionnalités
 
 - Grilles d’évaluation personnalisées selon le référentiel sélectionné
 - Attribution de niveaux de maturité et interprétation automatique
 - Visualisations via tableaux croisés dynamiques et graphiques (radars, histogrammes, camemberts)
 - Synthèse globale dans un tableau de bord
 
-## 📁 Contenu du dépôt
+## Contenu du dépôt
 
 - `Outil_Evaluation_maturite.xlsx` → Outil principal
 - `Guide_d_utilisation.pdf` → Manuel d’utilisation complet
 
-## 🚀 Utilisation
+## Utilisation
 
 1. **Ouvrir** le fichier Excel.
 2. **Choisir** l’onglet correspondant au référentiel souhaité (ANSSI, CIS, DORA).
