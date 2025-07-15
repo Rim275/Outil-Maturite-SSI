@@ -1,4 +1,4 @@
-# Outil-Maturite-SSI
+#  Outil d’Évaluation de la Maturité SSI
 ## Objectif
 
 Ce projet propose un outil Excel interactif permettant d’évaluer la maturité SSI d’un organisme à partir de trois référentiels majeurs :
